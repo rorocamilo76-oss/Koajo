@@ -239,4 +239,4 @@ function generarPDF() {
   }).from(el).save().then(function() {
     document.body.removeChild(el);
   });
-             }
+}
