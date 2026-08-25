@@ -1,2 +1,0 @@
-# Koajo
-App Fit
